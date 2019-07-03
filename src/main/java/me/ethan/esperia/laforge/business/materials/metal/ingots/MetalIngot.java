@@ -1,4 +1,6 @@
 package me.ethan.esperia.laforge.business.materials.metal.ingots;
 
-public abstract class MetalIngot {
+import me.ethan.esperia.laforge.business.materials.Material;
+
+public abstract class MetalIngot extends Material {
 }
